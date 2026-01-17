@@ -6,3 +6,8 @@ data/
 .DS_Store
 mlruns/
 .env
+
+# MLflow local artifacts
+mlruns/
+mlartifacts/
+mlflow.db
